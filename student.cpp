@@ -1,7 +1,5 @@
-//Mark Zhang - 10 April 2021 - Linked List Part 2
-//cpp file for the student class
-//contains constructor and destructor for the student class
-//and has 4 functions that return information
+//Michael Wang - 13 April 2021 - Linked List
+
 #include <iostream>
 #include <cstring>
 #include "student.h"
