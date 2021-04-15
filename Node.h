@@ -1,5 +1,4 @@
 //Michael Wang 4/13/21
-//CODE WRITTEN BY ANDREW HETT
 //header file for node class
 #ifndef NODE_H
 #define NODE_H
