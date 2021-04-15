@@ -26,7 +26,7 @@ node* node::getNext() //return the next node
 	return next;
 }
 
-void node::setNext(node* newNext) // change the next 
+void node::setNext(node* newNext) // change a given node's next node
 {
 	next = newNext;
 }
