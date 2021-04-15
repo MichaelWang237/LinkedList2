@@ -1,6 +1,5 @@
-//Mark Zhang - 10 April 2021 - Linked List Part 2
-//header file for the student class
-//declares constructor, destructor, functions that return information
+//Michael Wang - 13 April 2021 - Linked List
+
 #ifndef STUDENT_H
 #define STUDENT_H
 
