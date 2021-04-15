@@ -1,9 +1,5 @@
-//Mark Zhang - 10 April 2021 - Linked List Part 2
-//main file for linked list part 2 project
-//user can enter commands which 
-//take information to add students to the list or delete students from the list
-//user can see information using print, which displays information of all students in the list
-//and average, which displays the average GPA of students in the list
+//Michael Wang - 13 April 2021 - Linked List Part 2
+//This project allows the user to create a database of students and includes various characteristics
 #include <iostream>
 #include <cstring>
 #include <iomanip>
